@@ -1,0 +1,14 @@
+# ninja log v6
+23	1380	7620450493128765	ex-clickbuttom_autogen/timestamp	21228454a438d22e
+23	1380	7620450493128765	ex-clickbuttom_autogen/mocs_compilation.cpp	21228454a438d22e
+23	1380	7620450493128765	D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/ex-clickbuttom_autogen/timestamp	21228454a438d22e
+23	1380	7620450493128765	D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/ex-clickbuttom_autogen/mocs_compilation.cpp	21228454a438d22e
+1400	4561	7620450495124119	CMakeFiles/ex-clickbuttom.dir/ex-clickbuttom_autogen/mocs_compilation.cpp.obj	65447eac73dd529d
+1415	4691	7620450495259738	CMakeFiles/ex-clickbuttom.dir/mainwindow.cpp.obj	488df6fdc38385d6
+55	317	7620451398577202	ex-clickbuttom_autogen/timestamp	21228454a438d22e
+55	317	7620451398577202	ex-clickbuttom_autogen/mocs_compilation.cpp	21228454a438d22e
+55	317	7620451398577202	D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/ex-clickbuttom_autogen/timestamp	21228454a438d22e
+55	317	7620451398577202	D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/ex-clickbuttom_autogen/mocs_compilation.cpp	21228454a438d22e
+326	5026	7620451401292820	CMakeFiles/ex-clickbuttom.dir/mainwindow.cpp.obj	488df6fdc38385d6
+318	12931	7620451401207884	CMakeFiles/ex-clickbuttom.dir/main.cpp.obj	eaa13ea90cb91838
+12934	13252	7620451527371455	ex-clickbuttom.exe	a65e4d6001481e33

@@ -1,0 +1,9 @@
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/ex-clickbuttom.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/ex-clickbuttom_autogen_timestamp_deps.dir
+D:/git_trade/qt_ex/ex-clickbuttom/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/ex-clickbuttom_autogen.dir
