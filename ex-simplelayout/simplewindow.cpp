@@ -23,11 +23,11 @@ simplewindow::simplewindow(QWidget *parent) :
     outer -> addLayout(inner);
 
     auto clearButton = new QPushButton("Clear");
-    outer -> addWidget(clearButton);
+    inner -> addWidget(clearButton);
 
 
     auto saveButton = new QPushButton("save");
-    outer -> addWidget(saveButton);
+    inner -> addWidget(saveButton);
 
 
 }
